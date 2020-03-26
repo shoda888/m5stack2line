@@ -19,7 +19,7 @@ float d_lat = 0; //緯度差分
 float d_lng = 0; //経度差分
 int loopcount = 0;
 
-const char* server = "maker.ifttt.com";  // Server URL
+const char* server = "maker.ifttt.com";  // If you use ifttt
 WiFiClient client;
 Ambient ambient;
 
